@@ -190,6 +190,17 @@ You get big bonus points for the following things:
 Re-review
 -------------------
 
+Unless the paper was outright rejected or accepted, the authors will have a chance to respond to your review. 
+If you have followed the guidelines above, it should make the re-review process more straightforward:
 
+* If you said minor revision and they addressed your minor issues - accept. 
+* If you said major revisions and they addressed all your major/minor issues - accept.
+* If you said major revisions and they didn't do what you asked - major revisions with the outstanding issues.
+* If you said major revisions and their revision showed their method was incorrect/uninteresting - reject.
+
+
+
+How long you should take to review?
+-------------------
 
 
