@@ -205,7 +205,7 @@ If you have followed the guidelines above, it should make the re-review process 
 * If you said major revisions and their revision showed their method was incorrect/uninteresting - reject.
 
 
-How long you should take to review?
+How long should it take you to review?
 -------------------
 
 You should never take more than a month to review. If you accept a review, you should plan to complete it 
