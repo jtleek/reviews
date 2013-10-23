@@ -1,5 +1,5 @@
 Reviewing academic papers
-===========================
+-------------------------
 
 If you work in academia you will be asked to referee papers. Your first review will almost
 certainly be something you are asked to do by your advisor. But as your career goes on and
@@ -15,4 +15,7 @@ The goal is to avoid becoming [reviewer number three](http://www.youtube.com/wat
 simultaneously fulfilling your role to the academic community. It is a responsibility that must be
 taken seriously, but almost everyone wishes other people did better. 
 
+
+What is peer review?
+-------------------------
 
