@@ -22,24 +22,25 @@ The key players in peer review
 
 There are a few different players in the peer review process. 
 
-The first is the editor of the journal, 
+The first is the __editor__ of the journal, 
 who will do some vetting of papers at the beginning - mostly to screen out really crazy stuff that
 gets submitted (you'd be amazed at what gets submitted). At most journals, the editor is a senior
 scientist with a broad knowledge of the field who has a pretty good intuition about what is likely
 to be interesting to the readership of the journal and what is likely real science. Papers that
 are uninteresting or obviously wrong usually won't get past the editor.
 
-The editor usually assigns the paper to an associate editor who has more expertise in the topics covered
+The editor usually assigns the paper to an __associate editor__ who has more expertise in the topics covered
 in the paper. The associate edtior is usually a mid-level faculty member (senior assistant to associate professor).
 Again, papers that are obviously flawed or make wild claims often don't make it past the associate editor.
 
 If a paper passes these hurdles it does not mean that it is correct or the claims are justified. It only
 means that on a quick read the paper seems interesting and not outlandish. The associate editor then makes
-an effort to find referees who work in the specific area the paper focuses on but do not have strong
+an effort to find __referees__ who work in the specific area the paper focuses on but do not have strong
 conflicts or collaborations with the authors of the paper. As you can imagine, in some areas of science
 it is hard to find referees that aren't in conflict one way or the other and have time to review.
 So sometimes they have to find people whose expertise is close, but not perfectly aligned with the
 theme of the paper. 
+
 
 What is your job in peer review?
 -------------------------
@@ -52,8 +53,8 @@ A scientific paper can be distilled into four parts:
 4. A set of claims 
 
 When you (or anyone else) writes a paper the goal is to communicate clearly items 1-3 so that they
-cna justify the set of claims they are making. In the current peer review system there are
-currently three tasks you are responsible for as a peer reviewer:
+can justify the set of claims they are making. In the current peer review system there are
+three tasks you are responsible for as a peer reviewer:
 
 1. Evaluating the quality and accuracy of the methods, data, and results.
 2. Determining whether the methods, data and results justify the claims.
@@ -96,7 +97,9 @@ find the parts you think are most relevant and include them in the summary.
 The major issues should be a bulleted list. Depending on the quality of the paper this list may be longer
 or shorter. A major issue has to be one of the following: (1) a claim that is not supported by the data, 
 (2) a method or result that appears completely incorrect, (3) a critical missing piece of information,
-or (4) a paper that is not readable by a person trying their best to understand it. 
+or (4) a paper that is not readable by a person trying their best to understand it. You should point
+to specific figures, paragraphs, or results for each major issue and be concrete about the problems. Vague
+criticisms are unacceptable. When possible, use references from previous literature to back up your claims.
 
 Not making all data and code available with a specific link and instructions, is a major issue. 
 
@@ -104,9 +107,11 @@ Minor issues should also be a bulleted list. There are a much broader range of m
 may encounter. Some examples include simulations that miss some cases, figures that are missing axis labels,
 or the paper has extraneous results that aren't relevant to the claism being made. 
 
-Typos are not minor issues or major issues. It is not your responsibility to find them, but if you do,
+Typos are not minor issues or major issues. It is not your responsibility to find them. If you do,
 you should provide them as a bulleted list to the author in the format: "On page x, line z, change ... to
-...". If there are a huge number of typos then that may be stated as a minor issue. If the paper is completely
+...". 
+
+If there are a huge number of typos then that may be stated as a minor issue. If the paper is completely
 unreadable then that is a major issue. Completely unreadable means you could not follow the paper even
 after ignoring all typos. 
 
@@ -120,7 +125,7 @@ Here are some things that your comments to the authors should not contain:
 
 Remember that this is a professional document. They are typically anonymous (you don't have to sign your name)
 but the associate editor and editor will see the review and your reputation will be affected by the quality
-of the work you perform. 
+of the work you perform. There is no reason to be rude, competitive, or snarky in a review. 
 
 
 ### Comments to the editor
@@ -132,7 +137,7 @@ of how interesting you think the paper is and how appropriate it is for the jour
 helps justify your decision. 
 
 
-### Decision
+### Recommendation
 
 You usually have these four options for the decision
 
