@@ -186,6 +186,8 @@ You get big bonus points for the following things:
 * Being constructive - stating how the referees could address the problems you have found
 * Being polite - this helps focus on real issues rather than pet peeves. 
 
+Very good reviews are often 1-2 pages long in bullet pointed format. 
+
 
 Re-review
 -------------------
@@ -199,8 +201,22 @@ If you have followed the guidelines above, it should make the re-review process 
 * If you said major revisions and their revision showed their method was incorrect/uninteresting - reject.
 
 
-
 How long you should take to review?
 -------------------
+
+You should never take more than a month to review. If you accept a review, you should plan to complete it 
+within a month. Ideally you will do the review in less time than that (think 2 weeks). If you are unable
+to do the review in that time frame you should politely decline and offer some alternative reviewers. 
+
+It is inevitable that you will miss some deadlines for reviews. It is an important component of an academic's
+professional life but it is not a priority above your own work. If you are going to miss a deadline, you
+should let the associate editor know and give them a time frame for when you will complete the review. 
+
+Remember that someone else put a huge amount of work into this paper and their career/livelihood depends
+on them getting papers published in a reasonable amount of time. If you think the paper should be rejected,
+do it quickly! If you think it should be accepted, do it quickly!
+
+
+
 
 
