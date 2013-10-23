@@ -36,8 +36,9 @@ reviewer:
 2. Determining whether the methods, data and results justify the claims.
 3. Determining how important the claims are and whether they belong in the journal the paper was submitted to.
 
-We will discuss each of these points in the next section. But it is important to keep in mind that
-
+I'll discuss how you should think about each of these goals below but an important point to keep in mind
+is that it will be very difficult to know for sure about any of these claims. In order of frequency
+the types of papers you will get to review are: papers where 1-2 are 
 
 
 Format of a review
