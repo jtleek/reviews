@@ -11,4 +11,8 @@ most graduate students. The format, tone, and content of these documents is usua
 apprenticeship model (if at all). 
 
 This document serves to describe the way that you will write reviews while a member of the Leek group. 
-The goal is to avoid becoming reviewer number three 
+The goal is to avoid becoming [reviewer number three](http://www.youtube.com/watch?v=-VRBWLpYCPY) while 
+simultaneously fulfilling your role to the academic community. It is a responsibility that must be
+taken seriously, but almost everyone wishes other people did better. 
+
+
