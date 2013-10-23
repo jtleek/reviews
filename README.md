@@ -36,9 +36,11 @@ reviewer:
 2. Determining whether the methods, data and results justify the claims.
 3. Determining how important the claims are and whether they belong in the journal the paper was submitted to.
 
-I'll discuss how you should think about each of these goals below but an important point to keep in mind
-is that it will be very difficult to know for sure about any of these claims. In order of frequency
-the types of papers you will get to review are: papers where 1-2 are 
+Ideally you would be able to verify every single claim in the paper and test every result. Given the time 
+constraints of the review process and the remuneration you get for reviewing, this is absolutely not 
+feasible. Your goal is instead to do your best to obtain reasonable estimators of each of the three
+components of the review and "show your work" by providing references, pointing to figures, and putting
+results in context. 
 
 
 Format of a review
@@ -47,9 +49,26 @@ Format of a review
 When you write a review it should have the following components:
 
 * A summary of the paper (motivation, methods, results) written in your own words of about a paragraph. 
-* (optional) A bulleted list of overarching issues
 * A list of major issues
 * A list of minor issues
+* A list of typos you find
+
+I think the summary is critical because if you can't distill the ideas down then you haven't really understood
+the paper. The summary should absolutely _not_ be a restatement of the abstract of the paper, you should
+find the parts you think are most relevant and include them in the summary. 
+
+The major issues should be a bulleted list. Depending on the quality of the paper this list may be longer
+or shorter. A major issue has to be one of the following: (1) a claim that is not supported by the data, 
+(2) a method or result that appears completely incorrect, (3) a critical missing piece of information,
+or (4) a paper that is not readable by a person trying their best to understand it. 
+
+Not making all data and code available with a specific link and instructions, is a major issue. 
+
+Minor issues should also be a bulleted list. There are a much broader range of minor issues that you
+may encounter. Some examples include simulations that miss some cases, figures that are missing axis labels,
+or 
+
+
 
 Here are some things that your review should not contain:
 
@@ -61,3 +80,4 @@ Here are some things that your review should not contain:
 Remember that this is a professional document. They are typically anonymous (you don't have to sign your name)
 but the associate editor and editor will see the review and your reputation will be affected by the quality
 of the work you perform. 
+
