@@ -16,7 +16,32 @@ simultaneously fulfilling your role to the academic community. It is a responsib
 taken seriously, but almost everyone wishes other people did better. 
 
 
-What is peer review?
+
+The key players in peer review
+-------------------------
+
+There are a few different players in the peer review process. 
+
+The first is the editor of the journal, 
+who will do some vetting of papers at the beginning - mostly to screen out really crazy stuff that
+gets submitted (you'd be amazed at what gets submitted). At most journals, the editor is a senior
+scientist with a broad knowledge of the field who has a pretty good intuition about what is likely
+to be interesting to the readership of the journal and what is likely real science. Papers that
+are uninteresting or obviously wrong usually won't get past the editor.
+
+The editor usually assigns the paper to an associate editor who has more expertise in the topics covered
+in the paper. The associate edtior is usually a mid-level faculty member (senior assistant to associate professor).
+Again, papers that are obviously flawed or make wild claims often don't make it past the associate editor.
+
+If a paper passes these hurdles it does not mean that it is correct or the claims are justified. It only
+means that on a quick read the paper seems interesting and not outlandish. The associate editor then makes
+an effort to find referees who work in the specific area the paper focuses on but do not have strong
+conflicts or collaborations with the authors of the paper. As you can imagine, in some areas of science
+it is hard to find referees that aren't in conflict one way or the other and have time to review.
+So sometimes they have to find people whose expertise is close, but not perfectly aligned with the
+theme of the paper. 
+
+What is your job in peer review?
 -------------------------
 
 A scientific paper can be distilled into four parts: 
@@ -27,10 +52,8 @@ A scientific paper can be distilled into four parts:
 4. A set of claims 
 
 When you (or anyone else) writes a paper the goal is to communicate clearly items 1-3 so that they
-cna justify the set of claims they are making. 
-
-In the current peer review system there are currently three tasks you are responsible for as a peer
-reviewer:
+cna justify the set of claims they are making. In the current peer review system there are
+currently three tasks you are responsible for as a peer reviewer:
 
 1. Evaluating the quality and accuracy of the methods, data, and results.
 2. Determining whether the methods, data and results justify the claims.
@@ -40,13 +63,26 @@ Ideally you would be able to verify every single claim in the paper and test eve
 constraints of the review process and the remuneration you get for reviewing, this is absolutely not 
 feasible. Your goal is instead to do your best to obtain reasonable estimators of each of the three
 components of the review and "show your work" by providing references, pointing to figures, and putting
-results in context. 
+results in context.  
+
+Your prior belief about 1-3 should start with the assumption that the scientists in question are reasonble
+people who made efforts to be correct, thorough, transparent, and not exaggerate. You may adjust your prior if the paper
+was submitted to a journal that you and your colleagues have never heard of, or if you are asked to review
+a paper far outside of your expertise (legit journals try not to do this), or if the claims are so extreme
+that they would overturn huge areas of science (e.g. a paper claiming to prove evolution isn't true or that
+vaccines cause autism), or if the journal has the intent of only publishing papers that are groundbreaking.
 
 
-Format of a review
--------------------------
+Structure of a review
+----------------------
 
-When you write a review it should have the following components:
+Your review will have three parts. The comments to the authors, the comments to the editor, and a recommendation.
+
+
+### Comments to the authors
+
+
+When you write a review the first part consists of the comments to the authors; it should have the following components:
 
 * A summary of the paper (motivation, methods, results) written in your own words of about a paragraph. 
 * A list of major issues
@@ -66,11 +102,16 @@ Not making all data and code available with a specific link and instructions, is
 
 Minor issues should also be a bulleted list. There are a much broader range of minor issues that you
 may encounter. Some examples include simulations that miss some cases, figures that are missing axis labels,
-or 
+or the paper has extraneous results that aren't relevant to the claism being made. 
+
+Typos are not minor issues or major issues. It is not your responsibility to find them, but if you do,
+you should provide them as a bulleted list to the author in the format: "On page x, line z, change ... to
+...". If there are a huge number of typos then that may be stated as a minor issue. If the paper is completely
+unreadable then that is a major issue. Completely unreadable means you could not follow the paper even
+after ignoring all typos. 
 
 
-
-Here are some things that your review should not contain:
+Here are some things that your comments to the authors should not contain:
 
 * A recommendation of whether to accept or reject the paper
 * Requests for citations to a bunch of your papers (this will matter more later in your career)
@@ -80,4 +121,75 @@ Here are some things that your review should not contain:
 Remember that this is a professional document. They are typically anonymous (you don't have to sign your name)
 but the associate editor and editor will see the review and your reputation will be affected by the quality
 of the work you perform. 
+
+
+### Comments to the editor
+
+If you think you have covered everything in your comments to the authors you may leave this field blank.
+If you do put any text in, it should be no more than one paragraph. It should not contain any criticism
+of methods/results that you did not put in your comments to the authors. It may include a statement
+of how interesting you think the paper is and how appropriate it is for the journal readership if it
+helps justify your decision. 
+
+
+### Decision
+
+You usually have these four options for the decision
+
+* Reject
+* Major revisions
+* Minor revisions
+* Accept
+
+Reject if you think that the methods, results, or claims are blatantly false. Reject if you think the
+paper has major flaws that could not be corrected. Reject if the paper is clearly not an improvement
+on the current state of the art. This third category is very hard to judge if you don't have a lot of
+experience in the field. If you are new to reviewing you should consult your advisor.
+
+You should decide major revisions if you think there are serious problems with the paper but that
+they can be corrected. If you ask for major revisions your default plan should be that if they can/do
+correct all of the major issues you pointed out, you would be prepared to accept the paper. Sometimes, in the course
+of performing the corrections, they will show that their method/results/claims are not actually true. Then
+you should reject. 
+
+_Do not ask for major revisions if you think the paper is uninteresting and you wouldn't accept it even if
+they did everything you said._ This is the #1 way to end up as reviewer #3. 
+
+You should ask for minor revisions if there are only minor issues with the paper that you are pretty
+sure the authors can correct and you would be prepared to accept if the authors address those issues. 
+
+_Do not ask for minor revisions if you think the paper is uninteresting and you wouldn't accept it even if
+they did everything you said._ This is the #1 way to end up as reviewer #3. 
+
+It is very atypical for a reviewer to accept a paper outright. However there will be times when you receive
+a paper that has only minor issues and those issues are only judgement calls on your part, as opposed
+to things that need to be fixed to justify the claims or to make methods/results/data clear. It is perfectly
+acceptable in this case to list the minor issues and to suggest acceptance. 
+
+
+Length of a review
+-------------------
+
+The best reviews are bullet pointed, brief, and point out exactly the key issues and nothing more. It is
+_absolutely not_ your responsibility to rewrite the paper, change the message of the paper, or make the
+authors do something that wasn't in the scope of the original work. If you think the paper isn't appropriate
+for a journal in its current form, you should explain/justify why and choose reject. But you should not
+make the authors conform to your opinions. 
+
+There is a temptation to write really long reviews to show that you read a paper carefully and show off
+how expert you are. Do not succumb to this temptation. You get no bonus points for being nitpicky, verbose,
+or long. 
+
+You get big bonus points for the following things:
+* Being concise - nothing extraneous
+* Being precise - stating the specific problems with the manuscript
+* Being constructive - stating how the referees could address the problems you have found
+* Being polite - this helps focus on real issues rather than pet peeves. 
+
+
+Re-review
+-------------------
+
+
+
 
