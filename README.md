@@ -29,7 +29,7 @@ to be interesting to the readership of the journal and what is likely real scien
 are uninteresting or obviously wrong usually won't get past the editor.
 
 The editor usually assigns the paper to an __associate editor__ who has more expertise in the topics covered
-in the paper. The associate edtior is usually a mid-level faculty member (senior assistant to associate professor).
+in the paper. The associate editor is usually a mid-level faculty member (senior assistant to associate professor).
 Again, papers that are obviously flawed or make wild claims often don't make it past the associate editor.
 
 If a paper passes these hurdles it does not mean that it is correct or the claims are justified. It only
@@ -65,7 +65,7 @@ feasible. Your goal is instead to do your best to obtain reasonable estimators o
 components of the review and "show your work" by providing references, pointing to figures, and putting
 results in context.  
 
-Your prior belief about 1-3 should start with the assumption that the scientists in question are reasonble
+Your prior belief about 1-3 should start with the assumption that the scientists in question are reasonable
 people who made efforts to be correct, thorough, transparent, and not exaggerate. You may adjust your prior if the paper
 was submitted to a journal that you and your colleagues have never heard of, or if you are asked to review
 a paper far outside of your expertise (legit journals try not to do this), or if the claims are so extreme
@@ -104,7 +104,7 @@ Not making all data and code available with a specific link and instructions, is
 
 Minor issues should also be a bulleted list. There are a much broader range of minor issues that you
 may encounter. Some examples include simulations that miss some cases, figures that are missing axis labels,
-or the paper has extraneous results that aren't relevant to the claism being made. 
+or the paper has extraneous results that aren't relevant to the claims being made. 
 
 Typos are not minor issues or major issues. It is not your responsibility to find them. If you do,
 you should provide them as a bulleted list to the author in the format: "On page x, line z, change ... to
