@@ -133,7 +133,8 @@ If you think you have covered everything in your comments to the authors you may
 If you do put any text in, it should be no more than one paragraph. It should not contain any criticism
 of methods/results that you did not put in your comments to the authors. It may include a statement
 of how interesting you think the paper is and how appropriate it is for the journal readership if it
-helps justify your decision. 
+helps justify your decision. It should not very consistent with the comments for the authors; if you aren't
+comfortable saying it to the authors directly, you should consider carefully whether it should be said. 
 
 
 ### Recommendation
@@ -157,13 +158,13 @@ of performing the corrections, they will show that their method/results/claims a
 you should reject. 
 
 _Do not ask for major revisions if you think the paper is uninteresting and you wouldn't accept it even if
-they did everything you said._ This is the #1 way to end up as reviewer #3. 
+they did everything you said._ This is the #1 way to be a jerk reviewer.  
 
 You should ask for minor revisions if there are only minor issues with the paper that you are pretty
 sure the authors can correct and you would be prepared to accept if the authors address those issues. 
 
 _Do not ask for minor revisions if you think the paper is uninteresting and you wouldn't accept it even if
-they did everything you said._ This is the #1 way to end up as reviewer #3. 
+they did everything you said._ This is the #1 way to be a jerk reviewer. 
 
 It is very atypical for a reviewer to accept a paper outright. However there will be times when you receive
 a paper that has only minor issues and those issues are only judgement calls on your part, as opposed
