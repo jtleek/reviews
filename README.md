@@ -133,7 +133,7 @@ If you think you have covered everything in your comments to the authors you may
 If you do put any text in, it should be no more than one paragraph. It should not contain any criticism
 of methods/results that you did not put in your comments to the authors. It may include a statement
 of how interesting you think the paper is and how appropriate it is for the journal readership if it
-helps justify your decision. It should not very consistent with the comments for the authors; if you aren't
+helps justify your decision. It should be very consistent with the comments for the authors; if you aren't
 comfortable saying it to the authors directly, you should consider carefully whether it should be said. 
 
 
