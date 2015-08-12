@@ -188,7 +188,7 @@ or long.
 You get big bonus points for the following things:
 * Being concise - nothing extraneous
 * Being precise - stating the specific problems with the manuscript
-* Being constructive - stating how the referees could address the problems you have found
+* Being constructive - stating how the authors could address the problems you have found
 * Being polite - this helps focus on real issues rather than pet peeves. 
 
 Very good reviews are often 1-2 pages long in bullet pointed format. 
